@@ -1,0 +1,17 @@
+*{
+    font-family: 'Poppins', sans-serif;
+   
+}
+body{
+  background-image: url('../images/fundo\ ref.webp');
+  display: flex;
+  flex-direction: column;
+  flex-flow: column nowrap;
+  justify-content: center;
+  
+}
+
+.container{
+  max-width: 450px;
+}
+
